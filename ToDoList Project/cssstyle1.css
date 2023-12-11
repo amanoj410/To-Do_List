@@ -1,0 +1,40 @@
+/*css selectors*/
+body{
+   padding: 20px;
+background-image:linear-gradient(to top left,violet,red,green,blue);
+}
+.myname{
+    
+   font-family:cursive;
+   background-image: url("https://i.pinimg.com/originals/e8/c7/c4/e8c7c4d4e14a9e3b21faf3d7b37c5b03.jpg");
+   background-repeat:no-repeat;
+   background-size: cover;
+  color:rgb(194, 225, 117);
+  padding: 50px;
+  text-align: justify;
+  text-transform: capitalize;
+  text-indent: 60px;
+  letter-spacing: 2px;
+   
+}
+
+#myid{
+font-size: 30px;
+background-color: aquamarine;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 50px;
+padding-right: 50px;
+}
+#keerthick a:link{
+   color:red;
+}
+#keerthick a:visited{
+   color: blue;
+}
+#keerthick a:hover{
+   color:beige;
+}
+#keerthick a:active{
+   color:green;
+}

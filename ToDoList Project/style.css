@@ -1,0 +1,75 @@
+.card{
+    width: 70rem;
+    margin:200px;
+    margin-top:200px;
+    padding-bottom:200px;
+    background-image:linear-gradient(to top left,blue,red);
+}
+body{
+    background-image: linear-gradient(to bottom right ,blue,hotpink,violet);
+}
+.card-title{
+text-align: center;
+font-weight: bold;
+color:white;
+font-size: 30px;
+text-shadow: 20px;
+padding-bottom: 20px;
+}
+.button{
+    float:right;
+    margin-right:10px;
+    font-size: 25px;
+    background-color: blue;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom :5px;
+    border:none;
+    border-radius: 7px;
+    color: white;
+    
+}
+.button:hover{
+    background-color:skyblue;
+}
+.button.button:active{
+    background-color:blueviolet;
+}
+.giveborder{
+    margin-bottom:120px;
+    
+}
+#inputPassword5{
+    border-radius: 25px;
+    border:none;
+    margin-left: 30px;
+    height:40px;
+    text-align: center;
+    font-size: 25px;
+}
+#text{
+     margin-left:1110px;
+}
+
+nav{
+    
+    margin-bottom:90px;
+    font-size:20px;
+}
+#inputPassword{
+    
+    text-decoration: line-through;
+}
+
+.input{
+    height: 50px;
+    font-size:25px;
+    margin-bottom:50px;
+   text-decoration: line-through;
+   border-radius:7px;
+}
+img{
+    height:20px;
+    width: 30px;
+}
+
